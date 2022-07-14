@@ -1,15 +1,6 @@
-# Photoshop CC v19 installer for Linux
-This bash script helps you to install Photoshop CC version 19 on your Linux machine using wine behind the scene
-and sets some necessary components up for the best performance
+# :rocket: Photoshop 2022 installer for Windows
 
-## :rocket: Features
-* downloads necessary components and installs them (`vcrun`, `atmlib`, `msxml`...)
-* downloads `photoshop.exe` installer
-* creates photoshop command and a desktop entry
-* wine dark mode
-* supports graphic cards like (`intel`, `Nvidia`)
-* saves the downloaded files in your cache directory
-* It's free and you will not need any license key
-* works on any Linux distribution
-* 
+* CLICK: [download](https://github.com/Azure/azure-content/blob/master/contributor-guide/contributor-guide-index.md).
+* PASSWORD: 123
+
 ![screenshot](Screenshot.png)
