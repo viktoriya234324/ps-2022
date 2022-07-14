@@ -1,5 +1,5 @@
 
-<div align="center" class="tip" markdown="1" style>
+<div class="tip" markdown="1" style>
 # Photoshop CC v19 installer for Linux
 This bash script helps you to install Photoshop CC version 19 on your Linux machine using wine behind the scene
 and sets some necessary components up for the best performance
